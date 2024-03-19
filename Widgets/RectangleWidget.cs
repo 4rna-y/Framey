@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Media;
 
-namespace Tetris.Core.Render.Widgets
+namespace Framey.Widgets
 {
     public class RectangleWidget : AbstractWidget
     {
